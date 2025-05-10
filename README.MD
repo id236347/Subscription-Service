@@ -1,3 +1,10 @@
+Документация Swagger доступна по адресу http://localhost:8080/swagger-ui/index.html#/
+
+![](instructions/swagger.png)
+
+
+
+
 Инструкция к запуску приложения:
 * docker-compose up db (оставляем включенным)
 * mvn clean install "-Dspring.profiles.active=local" (в новом окне терминала параллельно 1-му пункту)
